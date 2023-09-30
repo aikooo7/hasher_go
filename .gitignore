@@ -2,3 +2,7 @@
 
 **/*.test
 
+# Ignore built binary
+
+**/hasher_go
+
