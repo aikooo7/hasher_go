@@ -6,3 +6,6 @@
 
 **/hasher_go
 
+# Ignore file where hash are stored.
+
+**/hashes.txt
