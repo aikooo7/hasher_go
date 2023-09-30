@@ -1,0 +1,4 @@
+# Ignore my test files.
+
+**/*.test
+
