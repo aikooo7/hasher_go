@@ -47,7 +47,7 @@ func main() {
 		}
 
 	case "no":
-		fmt.Printf("Not writting to a file...\n")
+		fmt.Printf("Not writing to the file...\n")
 	}
 
 	fmt.Printf("Do you want to hash other file? ")
